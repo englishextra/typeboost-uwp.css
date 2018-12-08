@@ -1,0 +1,10 @@
+{
+	"packageManager": "github",
+	"name": "typeboost-uwp.css",
+	"repo": "englishextra/typeboost-uwp.css",
+	"files": {
+		"basePath": "css/",
+		"include": ["typeboost-uwp.min.css"],
+		"exclude": []
+	}
+}
