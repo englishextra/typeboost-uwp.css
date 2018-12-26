@@ -28,7 +28,7 @@
 		}]
 	},
 	"dependencies": {
-		"npm": "^4.0.5"
+		"npm": "^6.5.0"
 	},
 	"devDependencies": {
 		"browser-sync": "^2.26.3",
