@@ -22,12 +22,9 @@
 		"url": "git://github.com/englishextra/typeboost-uwp.css.git"
 	},
 	"files": [
-		"LICENSE.md",
-		"index.html",
-		"css/typeboost-uwp.css.css",
-		"css/typeboost-uwp.css.min.css"
+		"css/typeboost-uwp.css.css"
 	],
-	"filename": "css/typeboost-uwp.css.min.css",
+	"filename": "css/typeboost-uwp.css.css",
 	"autoupdate": {
 		"source": "git",
 		"target": "git://github.com/englishextra/typeboost-uwp.css.git",
