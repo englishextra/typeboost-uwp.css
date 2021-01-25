@@ -5,7 +5,8 @@
 [![npm](https://img.shields.io/npm/v/typeboost-uwp.css.svg)](https://www.npmjs.com/package/typeboost-uwp.css)
 [![CDNJS](https://img.shields.io/cdnjs/v/typeboost-uwp.css.svg)](https://cdnjs.com/libraries/typeboost-uwp.css)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/912de6ece1684324a81204d83f0f6243)](https://www.codacy.com/manual/englishextra/typeboost-uwp.css/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=englishextra/typeboost-uwp.css&amp;utm_campaign=Badge_Grade)
-[![typeboost-uwp.css](https://github.com/englishextra/typeboost-uwp.css/raw/master/img/typeboost-uwp.css-logo-1DB5FC-935x230.png)](https://github.com/englishextra/typeboost-uwp.css)
+
+![typeboost-uwp.css](https://github.com/englishextra/typeboost-uwp.css/raw/master/img/typeboost-uwp.css-logo-1DB5FC-935x230.png)
 
 ## npm Install
 
