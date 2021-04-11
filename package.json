@@ -1,6 +1,6 @@
 {
 	"name": "typeboost-uwp.css",
-	"version": "0.1.10",
+	"version": "0.1.11",
 	"description": "typeboost-uwp.css is a set of CSS rules to ensure readable, scalable and responsive typography. REMs are used for font sizes, paddings, and margins. Can be used as typography normalizer. No dependencies. Wrap your HTML content with class .col and you are done.",
 	"keywords": [
 		"typeboost-uwp.css",
@@ -10,13 +10,13 @@
 		"grid",
 		"typography"
 	],
-	"main": "css/typeboost-uwp.css.css",
-	"style": "css/typeboost-uwp.css.css",
+	"main": "css/typeboost-uwp.css",
+	"style": "css/typeboost-uwp.css",
 	"files": [
 		"index.html",
-		"css/typeboost-uwp.css.css"
+		"css/typeboost-uwp.css"
 	],
-	"filename": "css/typeboost-uwp.css.css",
+	"filename": "css/typeboost-uwp.css",
 	"autoupdate": {
 		"source": "git",
 		"target": "git://github.com/englishextra/typeboost-uwp.css.git",

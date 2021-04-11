@@ -1,8 +1,8 @@
 {
 	"name": "typeboost-uwp.css",
 	"repo": "englishextra/typeboost-uwp.css",
-	"version": "0.1.10",
-	"styles": ["css/typeboost-uwp.min.css"],
+	"version": "0.1.11",
+	"styles": ["css/typeboost-uwp.css"],
 	"author": "englishextra",
 	"license": "(MIT)"
 }
